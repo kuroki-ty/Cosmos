@@ -1,6 +1,7 @@
 #cocos2d-xのClassディレクトリに含まれているsrcのみ対象外
 
 *.txt
+.cocos-project.json
 cocos2d/
 proj.android/
 proj.ios_mac/
